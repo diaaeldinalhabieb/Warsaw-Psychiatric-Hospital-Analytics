@@ -1,0 +1,2 @@
+﻿scripts/validate_repository.py linguist-detectable=false
+*.sql linguist-detectable=true
