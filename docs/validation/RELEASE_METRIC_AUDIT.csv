@@ -1,0 +1,16 @@
+Metric,Value,Source artifact,Status
+Clinical episodes,200000,Pillar 2 / Pillar 3 workbooks,PASS
+Overall crisis rate,4.214%,Pillar 1 workbook + supplied Board-Safe narrative,PASS
+No-shows,18076,Pillar 2 workbook,PASS
+Remote no-show rate,11.08%,Pillar 2 workbook,PASS
+Severe-delay visits,82395,Pillar 2 workbook,PASS
+Severe-delay share,54.26%,Pillar 2 workbook,PASS
+High-caseload clinicians,708,Pillar 2 workbook,PASS
+High-caseload share,70.8%,Pillar 2 workbook,PASS
+Total billed PLN,686899897.12,Pillar 2/Pillar 3 workbooks,PASS
+Gross rejected PLN,202829853.72,Pillar 3 workbook,PASS
+Gross rejection rate,29.53%,Pillar 3 workbook,PASS
+Prior Auth rejection rate,7.96%,Pillar 3 workbook,PASS
+No Auth rejection rate,8.02%,Pillar 3 workbook,PASS
+Remote no-show count,6814,Pillar 2 workbook,PASS
+High-digital full remission rate,31.08%,Pillar 3 Query2 workbook,PASS
